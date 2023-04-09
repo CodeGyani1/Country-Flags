@@ -58,6 +58,7 @@ penup()
 home()
 pendown()
 screen = Screen()
-screen.addshape("hop.gif")    #the image name you have taken
-shape("hop.gif")
+screen.addshape("la.gif")    #the image name you have taken
+shape("la.gif")
+
 done()
