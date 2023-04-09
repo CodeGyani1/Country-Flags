@@ -1,3 +1,5 @@
+#Subscribe to Code Gyani 👍
+
 from turtle import*
 #function for curve
 def curve01(a,d):
